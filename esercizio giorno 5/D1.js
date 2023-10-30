@@ -21,7 +21,7 @@ i principali data type sono:
 /* ESERCIZIO 2
  Crea una variable chiamata "name" e assegna ad essa il tuo nome, sotto forma di stringa.
 */
-//let name = "monica"
+//let name = "monica";
 
 //console.log(name)
 
@@ -30,9 +30,9 @@ i principali data type sono:
  Scrivi il codice necessario ad effettuare un addizione (una somma) dei numeri 12 e 20.
 */
 
-let numero1 = 12
-let numero2 = 20
-let somma= numero1 + numero2 
+let numero1 = 12;
+let numero2 = 20;
+let somma= numero1 + numero2 ;
 
 console.log(somma)
 
@@ -40,7 +40,7 @@ console.log(somma)
  Crea una variable di nome "x" e assegna ad essa il numero 12.
 */
 
-let x = 12
+let x = 12;
 
 console.log(x)
 
@@ -49,22 +49,22 @@ console.log(x)
   Dimostra l'impossibilità di riassegnare un valore ad una variabile dichiarata con il costrutto const.
 */
 
- //let name = "misciagna"  //con let non si può riassegnare un valore ad una variabile precedentemente dichiarata
+ //let name = "misciagna";  //con let non si può riassegnare un valore ad una variabile precedentemente dichiarata
  //console.log(name)
- //var name = "monica"
-// var name = "misciagna"    //con var si può riassegnare il valore
+ //var name = "monica";
+// var name = "misciagna";    //con var si può riassegnare il valore
 //console.log(name)
  
-//const name = "monica"
-//const name = "misciagna"
+//const name = "monica";
+//const name = "misciagna";
 //console.log(name)
 
 /* ESERCIZIO 6
  Esegui una sottrazione tra i numeri 4 e la variable "x" appena dichiarata (che contiene il numero 12).
 */
 
-let y = 4
-let differenza= y - x
+let y = 4;
+let differenza= y - x;
 
 console.log(differenza)
 
@@ -74,11 +74,11 @@ console.log(differenza)
  EXTRA: verifica che la loro uguaglianza diventi true se entrambe vengono trasformate in lowercase (senza cambiare il valore di name2!).
 */
 
-let name1 = "john"
-let name2 = "John"
-console.log(name1 !== name2)
-console.log(name1 === name2)
+let name1 = "john";
+let name2 = "John";
+console.log(name1 !== name2);
+console.log(name1 === name2);
 
-name2= name2 .toLowerCase()
+name2= name2 .toLowerCase();
 console.log(name1===name2)
 
