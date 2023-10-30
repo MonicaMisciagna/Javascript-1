@@ -76,8 +76,8 @@ console.log(differenza)
 
 let name1 = "john";
 let name2 = "John";
-console.log(name1 !== name2);
-console.log(name1 === name2);
+console.log(name1 !== name2); //differenza
+console.log(name1 === name2); //uguaglianza
 
 name2= name2 .toLowerCase();
 console.log(name1===name2)
