@@ -51,6 +51,8 @@ console.log(x)
 
  //let name = "misciagna";  //con let non si può riassegnare un valore ad una variabile precedentemente dichiarata
  //console.log(name)
+ name= "misciagna"  //rinominazione variabile concessa
+ console.log(name)
  //var name = "monica";
 // var name = "misciagna";    //con var si può riassegnare il valore
 //console.log(name)
