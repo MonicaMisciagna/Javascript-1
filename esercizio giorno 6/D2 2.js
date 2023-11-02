@@ -179,7 +179,7 @@ const me = {
 
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-me.città="toronto"
+me.city="toronto"
 //console.log(me)
 
 /* ESERCIZIO 12
@@ -211,5 +211,5 @@ let arr10 =[]
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-arr10.splice(9, 9,100)
+arr10.splice(9, 1,100)
 //console.log(arr10)
