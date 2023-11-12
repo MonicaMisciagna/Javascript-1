@@ -1,0 +1,44 @@
+html{ font-size:1.3rem;
+
+    background-image: url(../css/img/cute-pattern-with-dog-faces-bones_1191-1204.avif);
+background-size: cover;
+background-attachment: fixed;
+}
+body{ text-align: center;
+    padding-bottom: 4em;
+
+}
+header{font-family: 'Playpen Sans', cursive;
+     text-transform: uppercase;
+    padding: 5em;
+    margin: 10rem;
+   background-size: contain;
+    background-color:#FFFFFF ;
+    background-image: url(../css/img/2063138-vector-cartoon-cute-dogs-with-big-bone-vettoriale.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 1em;
+box-shadow: 2px 2px 2px lightgray;
+}
+h1{ padding-top: 3em;
+    
+}
+
+.numero{color: white;
+    background-color:#F0D6CB; ;
+    display: inline-block;
+    border: 1px solid #F0D6CB;
+    width: 1em;
+    padding: 1em;
+    margin:0.2em;
+    font-size:1.5rem
+}
+button{
+    background-color: #F59557;
+    color:white;
+    border:none;
+   font-family: 'Playpen Sans', cursive;
+   font-size: 1em;
+   box-shadow: 2px 2px 2px lightgray;
+   margin-top: 4px;
+}
